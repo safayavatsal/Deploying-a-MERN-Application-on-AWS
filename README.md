@@ -1,4 +1,4 @@
-# Graded-Assignment-on-Deploying-a-MERN-Application-on-AWS
+# Deploying-a-MERN-Application-on-AWS
 Tasks:
 
 Part 1: Infrastructure Setup with Terraform
